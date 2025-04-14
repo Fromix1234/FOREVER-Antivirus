@@ -1,0 +1,30 @@
+import logging
+import platform
+
+# Класс фильтра для добавления информации о системе
+class SystemFilter(logging.Filter):
+    def __init__(self):
+        super().__init__()
+        self.system = platform.system()
+
+    def filter(self, record):
+        record.system = self.system
+        return True
+
+# Настройка логирования
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
+
+handler = logging.FileHandler('better_than_avast.log')
+handler.setLevel(logging.DEBUG)
+
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - [System: %(system)s] - %(message)s')
+handler.setFormatter(formatter)
+
+system_filter = SystemFilter()
+handler.addFilter(system_filter)
+
+logger.addHandler(handler)
+
+# Пример использования
+logger.info("Это тестовое сообщение")

@@ -1,0 +1,20 @@
+2025-03-25 16:36:06,991 - INFO - Starting application
+2025-03-25 16:36:07,026 - ERROR - Failed to load signatures: Expecting value: line 3 column 46 (char 60)
+2025-03-25 16:36:07,528 - INFO - Antivirus application initialized
+2025-03-25 16:39:47,910 - INFO - Starting application
+2025-03-25 16:39:47,925 - INFO - Signatures loaded
+2025-03-25 16:39:48,414 - INFO - Antivirus application initialized
+2025-03-25 16:39:56,281 - INFO - Queued file for scanning: E:/7,5k.vcf
+2025-03-25 16:39:56,281 - WARNING - YARA rules file not found
+2025-03-25 16:40:18,925 - INFO - Queued file for scanning: E:/7,5k.vcf
+2025-03-25 16:40:18,941 - WARNING - YARA rules file not found
+2025-03-25 16:40:20,638 - ERROR - VT upload failed: {"error": {"code": "WrongCredentialsError", "message": "Wrong API key"}}
+2025-04-10 22:14:55,298 - ERROR - Не удалось загрузить историю: Expecting ':' delimiter: line 1 column 40786 (char 40785)
+2025-04-10 22:14:55,300 - ERROR - Инициализация кэша не удалась: no such column: sha256
+2025-04-10 22:15:25,568 - INFO - Сканирование начато: G:/Counter-Strike Global Offensive
+2025-04-10 22:29:57,892 - DEBUG - Starting new HTTPS connection (1): mb-api.abuse.ch:443
+2025-04-10 22:29:58,935 - DEBUG - https://mb-api.abuse.ch:443 "POST /api/v1/ HTTP/1.1" 200 37
+2025-04-10 22:30:00,691 - INFO - Добавлено 0 новых хэшей из MalwareBazaar
+2025-04-10 23:11:55,215 - ERROR - Не удалось загрузить историю: Expecting value: line 1 column 1 (char 0)
+2025-04-10 23:11:55,217 - ERROR - Инициализация кэша не удалась: no such column: sha256
+2025-04-10 23:12:13,854 - INFO - Сканирование начато: G:/SamFirm_v0.5.0

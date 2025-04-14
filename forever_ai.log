@@ -1,0 +1,20 @@
+2025-04-13 21:21:05,013 - ERROR - Ошибка компиляции YARA правил: (2, 'No such file or directory')
+2025-04-13 21:21:05,145 - INFO - Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2025-04-13 21:21:05,145 - INFO - TensorFlow version: 2.13.0
+2025-04-13 21:21:05,539 - WARNING - Иконка не найдена, используется стандартная
+2025-04-13 21:21:28,382 - ERROR - Ошибка вычисления хэшей для C:\Users\FROMIX\AppData\Roaming\obs-studio\plugin_config\obs-browser\Network\TransportSecurity~RFd34e2d.TMP: Нет доступа к файлу или временный файл
+2025-04-13 21:32:12,086 - INFO - Компиляция YARA правил из файла: правила_yara.yar
+2025-04-13 21:32:12,086 - ERROR - Ошибка компиляции YARA правил (правила_yara.yar): (2, 'No such file or directory')
+2025-04-13 21:32:12,210 - INFO - Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2025-04-13 21:32:12,210 - INFO - TensorFlow version: 2.13.0
+2025-04-13 21:32:12,598 - WARNING - Иконка не найдена по пути: icon.ico. Используется системная иконка.
+2025-04-13 21:45:00,479 - INFO - Компиляция YARA правил из файла: H:\FOREVER\правила_yara.yar
+2025-04-13 21:45:00,479 - ERROR - Ошибка компиляции YARA правил (H:\FOREVER\правила_yara.yar): (2, 'No such file or directory')
+2025-04-13 21:45:00,608 - INFO - Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2025-04-13 21:45:00,608 - INFO - TensorFlow version: 2.13.0
+2025-04-13 21:45:01,009 - WARNING - Иконка не найдена по пути: H:\FOREVER\icon.ico. Используется системная иконка.
+2025-04-13 21:45:01,013 - INFO - Мониторинг в реальном времени запущен
+2025-04-13 21:45:01,014 - INFO - Мониторинг сети запущен
+2025-04-13 21:45:01,016 - INFO - Мониторинг браузеров запущен
+2025-04-13 21:45:01,016 - INFO - Мониторинг системы запущен
+2025-04-13 21:45:13,356 - ERROR - Ошибка вычисления хэшей для C:\Users\FROMIX\AppData\Roaming\Cursor\CachedData\7801a556824585b7f2721900066bc87c4a09b740\chrome\js\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\FROMIX\\AppData\\Roaming\\Cursor\\CachedData\\7801a556824585b7f2721900066bc87c4a09b740\\chrome\\js\\index-dir\\temp-index'
